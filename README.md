@@ -106,8 +106,8 @@ To run tests, run the following command:
 
 👤 **Author**
 
-- GitHub: [@fithamlak](https://github.com/yohannes57)
-- Twitter: [@FithamlakF](https://twitter.com/yohannes)
+- GitHub: [@yohannes57](https://github.com/yohannes57)
+- Twitter: [@yohannes](https://twitter.com/yohannes)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/yohannes-deres)
 
 ## 🤝 Contributing <a name="contributing"></a>
